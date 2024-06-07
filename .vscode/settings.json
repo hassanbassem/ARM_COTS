@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mgpio_interface.h": "c",
+        "hledmatrix_cfg.h": "c",
+        "bit_math.h": "c",
+        "std_types.h": "c",
+        "mexti_private.h": "c",
+        "mexti_interface.h": "c"
+    }
+}
